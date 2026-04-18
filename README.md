@@ -15,5 +15,4 @@ Power BI | DAX | Data Visualization
 ## 📸 Dashboard Preview
 
 
-![Dashboard](<img width="1341" height="797" alt="BLINKIT PROJECT DASHBOARD" src="https://github.com/user-attachments/assets/2ee90655-ae96-4115-a9e9-966de06321c1" />
-)
+![Dashboard](BLINKIT PROJECT DASHBOARD.png)
